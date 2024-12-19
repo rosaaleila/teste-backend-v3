@@ -1,10 +1,11 @@
 using System.Collections.Generic;
+using System.Xml.Serialization;
 
 namespace TheatricalPlayersRefactoringKata;
-
 public class Invoice
 {
     private string _customer;
+    
     private List<Performance> _performances;
 
     public string Customer { get => _customer; set => _customer = value; }

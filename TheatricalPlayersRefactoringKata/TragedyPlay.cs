@@ -13,21 +13,20 @@ namespace TheatricalPlayersRefactoringKata
                 lines,
                 "tragedy",
                 new PriceConfiguration(
-                    lines: lines,
                     baseAudienceLimit: 30, 
-                    extraPerAudience: 10
+                    extraPerAudience: 10.0
                 )
             ) 
         { }
 
         public override double CalculatePrice(int audience)
         {
-            double price = PriceConfig.BasePrice;
+            double price = base.CalculatePrice(audience);
             if (audience > PriceConfig.BaseAudienceLimit)
             {
                 price += PriceConfig.ExtraPerAudience * (audience - PriceConfig.BaseAudienceLimit);
             }
-            return price;
+            return Math.Round(price, 2);
         }
     }
 }

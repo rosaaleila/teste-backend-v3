@@ -32,7 +32,6 @@ public class Play
     }
 
     protected PriceConfiguration PriceConfig => _priceConfig;
-
     public Play(string name, int lines, string type, PriceConfiguration priceConfig) {
         this._name = name ?? throw new ArgumentNullException(nameof(name));
         this._lines = lines;
@@ -40,17 +39,7 @@ public class Play
         this._priceConfig = priceConfig ?? throw new ArgumentNullException(nameof(priceConfig));
     }
 
-    public virtual double CalculatePrice(int audience) 
-    {
-        double price = _priceConfig.BasePrice;
-
-        if (audience > _priceConfig.BaseAudienceLimit)
-        {
-            price += _priceConfig.AdditionalPerExtraAudience * (audience - _priceConfig.BaseAudienceLimit);
-        }
-
-        return price;
-    }
+    public virtual double CalculatePrice(int audience) => Lines / 10.0;
 
     public virtual int CalculateCredits(int audience)
     {

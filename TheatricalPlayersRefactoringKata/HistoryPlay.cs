@@ -18,6 +18,8 @@ namespace TheatricalPlayersRefactoringKata
 
         public override double CalculatePrice(int audience)
         {
+            double price = base.CalculatePrice(audience);
+
             TragedyPlay equivalentTragedyPlay = new(this.Name, this.Lines);
             ComedyPlay equivalentComedyPlay = new(this.Name, this.Lines);
 

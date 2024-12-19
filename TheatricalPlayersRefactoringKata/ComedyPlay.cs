@@ -13,7 +13,6 @@ namespace TheatricalPlayersRefactoringKata
                 lines, 
                 "comedy",
                 new PriceConfiguration(
-                    lines: lines,
                     baseAudienceLimit: 20, 
                     extraPerAudience: 3, 
                     fixedBonus: 100, 
@@ -24,7 +23,7 @@ namespace TheatricalPlayersRefactoringKata
 
         public override double CalculatePrice(int audience)
         {
-            double price = PriceConfig.BasePrice;
+            double price = base.CalculatePrice(audience);
             price += PriceConfig.ExtraPerAudience * audience;   
 
             if (audience > PriceConfig.BaseAudienceLimit)
