@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace TheatricalPlayersRefactoringKata
 {
     public class ComedyPlay : Play
@@ -29,7 +24,7 @@ namespace TheatricalPlayersRefactoringKata
             if (audience > PriceConfig.BaseAudienceLimit)
             {
                 price += PriceConfig.FixedBonus;
-                price += (PriceConfig.AdditionalPerExtraAudience * (audience - PriceConfig.BaseAudienceLimit));
+                price += PriceConfig.AdditionalPerExtraAudience * (audience - PriceConfig.BaseAudienceLimit);
             }
             
             return price;
