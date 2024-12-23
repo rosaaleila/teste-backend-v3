@@ -34,7 +34,7 @@ public class Play
     protected PriceConfiguration PriceConfig => _priceConfig;
     public Play(string name, int lines, string type, PriceConfiguration priceConfig) {
         this._name = name ?? throw new ArgumentNullException(nameof(name));
-        this._lines = lines;
+        this.Lines = lines;
         this._type = type ?? throw new ArgumentNullException(nameof(type));
         this._priceConfig = priceConfig ?? throw new ArgumentNullException(nameof(priceConfig));
     }

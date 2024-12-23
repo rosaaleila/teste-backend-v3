@@ -29,7 +29,7 @@ public class StatementPrinterTests
             }
         );
 
-        StatementPrinter statementPrinter = new StatementPrinter();
+        StatementPrinter statementPrinter = new();
         var result = statementPrinter.Print(invoice, plays);
 
         Approvals.Verify(result);

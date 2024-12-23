@@ -8,7 +8,7 @@ namespace TheatricalPlayersRefactoringKata
     public class PriceConfiguration
     {
         public double ExtraPerAudience { get; set; } = 0;
-        public double BaseAudienceLimit { get; set; } = 0;
+        public int BaseAudienceLimit { get; set; } = 0;
         public double FixedBonus { get; set; } = 0; 
         public double AdditionalPerExtraAudience { get; set; } = 0;
         public PriceConfiguration(

@@ -29,7 +29,7 @@ namespace TheatricalPlayersRefactoringKata
             if (audience > PriceConfig.BaseAudienceLimit)
             {
                 price += PriceConfig.FixedBonus;
-                price += PriceConfig.AdditionalPerExtraAudience * (audience - PriceConfig.BaseAudienceLimit);
+                price += (PriceConfig.AdditionalPerExtraAudience * (audience - PriceConfig.BaseAudienceLimit));
             }
             
             return price;

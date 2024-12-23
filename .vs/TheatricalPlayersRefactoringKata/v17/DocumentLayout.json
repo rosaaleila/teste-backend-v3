@@ -3,35 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|c:\\users\\leila\\documents\\workspace\\teste-backend-v3\\theatricalplayersrefactoringkata\\statementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|solutionrelative:theatricalplayersrefactoringkata\\statementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|c:\\users\\leila\\documents\\workspace\\teste-backend-v3\\theatricalplayersrefactoringkata\\tragedyplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|solutionrelative:theatricalplayersrefactoringkata\\tragedyplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|c:\\users\\leila\\documents\\workspace\\teste-backend-v3\\theatricalplayersrefactoringkata\\historyplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|solutionrelative:theatricalplayersrefactoringkata\\historyplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leila\\AppData\\Local\\SourceServer\\b086f86a21216a77619a59fd83c3751c65872453ae91d985d66aed715e551344\\src\\ApprovalTests\\Approvers\\FileApprover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|c:\\users\\leila\\documents\\workspace\\teste-backend-v3\\theatricalplayersrefactoringkata\\priceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|solutionrelative:theatricalplayersrefactoringkata\\priceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|c:\\users\\leila\\documents\\workspace\\teste-backend-v3\\theatricalplayersrefactoringkata\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|solutionrelative:theatricalplayersrefactoringkata\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|c:\\users\\leila\\documents\\workspace\\teste-backend-v3\\theatricalplayersrefactoringkata\\comedyplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|solutionrelative:theatricalplayersrefactoringkata\\comedyplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|c:\\users\\leila\\documents\\workspace\\teste-backend-v3\\theatricalplayersrefactoringkata\\theatricalplayersrefactoringkata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|solutionrelative:theatricalplayersrefactoringkata\\theatricalplayersrefactoringkata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,104 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FileApprover.cs",
-              "DocumentMoniker": "C:\\Users\\leila\\AppData\\Local\\SourceServer\\b086f86a21216a77619a59fd83c3751c65872453ae91d985d66aed715e551344\\src\\ApprovalTests\\Approvers\\FileApprover.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\b086f86a21216a77619a59fd83c3751c65872453ae91d985d66aed715e551344\\src\\ApprovalTests\\Approvers\\FileApprover.cs",
-              "ToolTip": "C:\\Users\\leila\\AppData\\Local\\SourceServer\\b086f86a21216a77619a59fd83c3751c65872453ae91d985d66aed715e551344\\src\\ApprovalTests\\Approvers\\FileApprover.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\b086f86a21216a77619a59fd83c3751c65872453ae91d985d66aed715e551344\\src\\ApprovalTests\\Approvers\\FileApprover.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAArwDsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:46:36.277Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StatementPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\StatementPrinter.cs",
-              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata\\StatementPrinter.cs",
-              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\StatementPrinter.cs",
-              "RelativeToolTip": "TheatricalPlayersRefactoringKata\\StatementPrinter.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:10:39.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PriceConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\PriceConfiguration.cs",
-              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata\\PriceConfiguration.cs",
-              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\PriceConfiguration.cs",
-              "RelativeToolTip": "TheatricalPlayersRefactoringKata\\PriceConfiguration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:06:31.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TragedyPlay.cs",
-              "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\TragedyPlay.cs",
-              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata\\TragedyPlay.cs",
-              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\TragedyPlay.cs",
-              "RelativeToolTip": "TheatricalPlayersRefactoringKata\\TragedyPlay.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:06:24.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ComedyPlay.cs",
-              "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\ComedyPlay.cs",
-              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata\\ComedyPlay.cs",
-              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\ComedyPlay.cs",
-              "RelativeToolTip": "TheatricalPlayersRefactoringKata\\ComedyPlay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:06:15.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HistoryPlay.cs",
-              "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\HistoryPlay.cs",
-              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata\\HistoryPlay.cs",
-              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\HistoryPlay.cs",
-              "RelativeToolTip": "TheatricalPlayersRefactoringKata\\HistoryPlay.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:05:33.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Play.cs",
               "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\Play.cs",
               "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata\\Play.cs",
               "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\Play.cs",
               "RelativeToolTip": "TheatricalPlayersRefactoringKata\\Play.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwBQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:05:11.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TheatricalPlayersRefactoringKata.csproj",
-              "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj",
-              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj",
-              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj",
-              "RelativeToolTip": "TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T22:56:53.047Z"
+              "WhenOpened": "2024-12-23T22:09:02.481Z",
+              "EditorCaption": ""
             }
           ]
         }
