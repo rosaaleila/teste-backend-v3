@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|c:\\users\\leila\\documents\\workspace\\teste-backend-v3\\theatricalplayersrefactoringkata\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|solutionrelative:theatricalplayersrefactoringkata\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AFBF20D-3D97-46EC-B506-8B7C82598951}|TheatricalPlayersRefactoringKata.Tests\\TheatricalPlayersRefactoringKata.Tests.csproj|c:\\users\\leila\\documents\\workspace\\teste-backend-v3\\theatricalplayersrefactoringkata.tests\\statementprintertests.testxmlstatementexample.approved.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2AFBF20D-3D97-46EC-B506-8B7C82598951}|TheatricalPlayersRefactoringKata.Tests\\TheatricalPlayersRefactoringKata.Tests.csproj|solutionrelative:theatricalplayersrefactoringkata.tests\\statementprintertests.testxmlstatementexample.approved.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|c:\\users\\leila\\documents\\workspace\\teste-backend-v3\\theatricalplayersrefactoringkata\\statementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D24051E-3E14-4B98-A8B3-DFDA7E4ACD7B}|TheatricalPlayersRefactoringKata\\TheatricalPlayersRefactoringKata.csproj|solutionrelative:theatricalplayersrefactoringkata\\statementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Play.cs",
-              "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\Play.cs",
-              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata\\Play.cs",
-              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\Play.cs",
-              "RelativeToolTip": "TheatricalPlayersRefactoringKata\\Play.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA4AAAAFAAAAAAAAAA==",
+              "Title": "StatementPrinterTests.TestXMLStatementExample.approved.txt",
+              "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Tests\\StatementPrinterTests.TestXMLStatementExample.approved.txt",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Tests\\StatementPrinterTests.TestXMLStatementExample.approved.txt",
+              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Tests\\StatementPrinterTests.TestXMLStatementExample.approved.txt",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Tests\\StatementPrinterTests.TestXMLStatementExample.approved.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-23T23:33:21.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatementPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\StatementPrinter.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata\\StatementPrinter.cs",
+              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata\\StatementPrinter.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata\\StatementPrinter.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAADwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T22:09:02.481Z",
+              "WhenOpened": "2024-12-23T23:28:30.47Z",
               "EditorCaption": ""
             }
           ]

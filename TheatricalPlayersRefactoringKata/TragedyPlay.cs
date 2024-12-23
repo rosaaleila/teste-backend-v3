@@ -7,7 +7,7 @@ namespace TheatricalPlayersRefactoringKata
 {
     public class TragedyPlay: Play
     {
-        public TragedyPlay(string title, int lines) 
+        public TragedyPlay(string title, int lines)
             : base(
                 title,
                 lines,
