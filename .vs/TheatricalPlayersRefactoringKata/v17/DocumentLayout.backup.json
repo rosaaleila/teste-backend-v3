@@ -26,9 +26,9 @@
               "Title": "StatementPrinterTests.TestXMLStatementExample.approved.txt",
               "DocumentMoniker": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Tests\\StatementPrinterTests.TestXMLStatementExample.approved.txt",
               "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Tests\\StatementPrinterTests.TestXMLStatementExample.approved.txt",
-              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Tests\\StatementPrinterTests.TestXMLStatementExample.approved.txt*",
-              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Tests\\StatementPrinterTests.TestXMLStatementExample.approved.txt*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\leila\\Documents\\workspace\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Tests\\StatementPrinterTests.TestXMLStatementExample.approved.txt",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Tests\\StatementPrinterTests.TestXMLStatementExample.approved.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-12-23T23:33:21.857Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "TheatricalPlayersRefactoringKata\\StatementPrinter.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAAADwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T23:28:30.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T23:28:30.47Z"
             }
           ]
         }
